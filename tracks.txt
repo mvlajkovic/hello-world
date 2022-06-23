@@ -1,0 +1,29 @@
+Adelaide Street Circuit/Adelaide/3.780/Street circuit/Clockwise
+Algarve International Circuit/Portimao/4.653/Race circuit/Clockwise
+Autodromo Hermanos Rodriguez/Mexico City/4.304/Race circuit/Clockwise
+Autodromo Internazionale del Mugello/Scarperia e San piero/5.245/Race circuit/Clockwise
+Autodromo Internazionale Enzo e Dino Ferrari/Imola/4.909/Race circuit/Anti-Clockwise
+Autodromo Jose Carlos Pace/Sao Paulo/4.309/Race circuit/Anti-Clockwise
+Autodromo Nazionale di Monza/Monza/5.793/Race circuit/Clockwise
+Bahrain International Circuit/Sakhir/5.412/Race circuit/Clockwise
+Baku City Circuit/Baku/6.003/Street circuit/Anti-clockwise
+Circuit de Barcelona - Catalunya/Montmelo/4.675/Race circuit/Clockwise
+Circuit de Monaco/Monte Carlo/3.337/Street circuit/clockwise
+Circuit de Spa-Francorchamps/Stavelot/7.004/Race circuit/Clockwise
+Circuit Gilles Villeneuve/Montreal/4.361/Street circuit/Clockwise
+Circuit of the Americas/Austin/5.513/Race circuit/Anti-clockwise
+Circuit Paul Ricard/Le Castellet/5.842/Race circuit/Clockwise
+Circuit Zandvoort/Zandvoort/4.259/Race circuit/Clockwise
+Hungaroring/Mogyorod/4.381/Race circuit/Clockwise
+Intercity Istanbul Park/Istanbul/5.338/Race circuit/Anti-clockwise
+Jedda Corniche Circuit/Jeddah/6.174/Street circuit/Anti-clockwise
+Losail International circuit/Lusail/5.380/Race circuit/Clockwise
+Marina Bay Street Circuit/Singapore/5.063/Street circuit/Anti-clockwise
+Miami International Autodrome/Miami/5.410/Road circuit/Anti-clockwise
+Red Bull Ring/Spielberg bei Knittelfeld/4.318/Race circuit/Clockwise
+Sepang International Circuit/Sepang/5.543/Race circuit/Clockwise
+Shanghai International Circuit/Shanghai/5.451/Race circuit/clockwise
+Silverstone Circuit/Silverstone/5.891/Race circuit/Clockwise
+Sochi Autodrom/Sochi/5.848/Race circuit/Clockwise
+Suzuka International Racing Course/Suzuka/5.807/Race circuit/figure eight
+Yas Marina Circuit/Abu Dhabi/5.281/Race circuit/Counterclockwise

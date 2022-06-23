@@ -1,0 +1,10 @@
+1. Red Bull Racing Honda RBR Milton Keynes - 40.0
+2. McLaren F1 Team MCL Woking - 22.0
+3. Scuderia AlphaTauri Honda ATA Faenza - 19.0
+4. Mercedes-AMG Petronas F1 Team MRC Brackley - 10.0
+5. Aston Martin Cognizant F1 Team AMC Silverstone - 6.0
+6. Williams Racing WIL Grove - 4.0
+7. Scuderia Ferrari Mission Winnow FER Maranello - 0.0
+8. Alpine F1 Team ALP Enstone - 0.0
+9. Alfa Romeo Racing Orlen ARO Hinwil - 0.0
+10. Uralkali Haas F1 Team HAA Kannapolis - 0.0
